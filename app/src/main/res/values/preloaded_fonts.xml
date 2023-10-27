@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <array name="preloaded_fonts" translatable="false">
+<<<<<<< HEAD
         <item>@font/comfortaa_light</item>
+=======
+        <item>@font/comfortaa</item>
+        <item>@font/comfortaa_bold</item>
+>>>>>>> 433c003d399d92682c5c892b60bf7fe4906880a5
     </array>
 </resources>
